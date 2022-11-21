@@ -1,0 +1,14 @@
+export const EVENT_LISTING              = 'event/getAll?_format=json&skip=0&take=10000';
+export const EVENT_STATUS               = 'event/offer/status?_format=json';
+export const GET_OFFERS                 = 'offer/getAll?_format=json&skip=0&take=10000';
+export const GET_ALL_USERS              = 'user/getAll?_format=json&skip=0&take=10000';
+export const EVENT_USER_RESPONSE        = 'event/user/response?_format=json';
+export const ADD_EVENT_USER_RESPONSE    = 'event/user/response/add?_format=json';
+export const UPDATE_EVENT_USER_RESPONSE = 'event/user/response/update?_format=json';
+export const EVENT_GALLERY_LSTING       = 'event/user/gallery?_format=json';
+export const UPLOAD_FILE                = 'uploadFIle?_format=json';
+export const ADD_EVENT_GALLERY          = 'event/gallery/image/add?_format=json';
+export const GET_MEMBERS                = 'user/getAll?_format=json&skip=0&take=10000';
+export const DELETE_IMAGE               = 'event/gallery/image/delete?_format=json';
+export const SURVEY_LIST                = 'survey/getAll?_format=json&skip=0&take=10';
+export const UPDATE_USER                = 'user/update?_format=json';

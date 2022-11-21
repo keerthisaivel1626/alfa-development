@@ -1,0 +1,11 @@
+export const SPLASH = require('../assets/images/splash.png');
+export const ALFA_NETWORK = require('../assets/images/alfanetwork.png');
+export const INDIA_FLAG = require('../assets/images/india.png');
+export const ABSTRACT = require('../assets/images/abstract.jpeg');
+export const USER = require('../assets/images/user.png');
+export const EVENT_IMAGE = require('../assets/images/event_image.png');
+export const EVENT_BIG_IMAGE = require('../assets/images/event_big_image.png');
+export const POWERED_BY_ALFA = require('../assets/images/powered_by_alfa.png');
+export const ANONYMOUS_USER = require('../assets/images/anonymous_user.png');
+export const IMAGE_LOADER = require('../assets/images/image_loading.png');
+export const POWER_IMAGE = require('../assets/images/power.png');
